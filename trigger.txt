@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2024.6 f2mfsdly.mirror.aliyuncs.com/lisuheng-docker-hub/home:2024.6.8
+homeassistant/home-assistant:2024.6 registry.cn-hangzhou.aliyuncs.com/lisuheng-docker-hub/home:2024.6.8
