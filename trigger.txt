@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2024.6 registry.cn-hangzhou.aliyuncs.com/lisuheng-docker-hub/home:2024.6.8
+apache/rocketmq:5.2.0 registry.cn-hangzhou.aliyuncs.com/apache/rocketmq:5.2.0
