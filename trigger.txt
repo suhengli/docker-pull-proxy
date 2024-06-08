@@ -1,1 +1,1 @@
-apache/rocketmq:5.2.0 registry.cn-hangzhou.aliyuncs.com/apache/rocketmq:5.2.0
+apache/rocketmq:5.2.0 registry.cn-hangzhou.aliyuncs.com/apache-rocketmq:5.2.0
